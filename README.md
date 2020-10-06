@@ -6,7 +6,7 @@ sudo apt-get install curl pandoc context
 sudo yarn add global json
 ```
 
-# Run
+# Usage
 1. Place your favourite article urls into `articles.txt`.
 1. Run script:
 ```
