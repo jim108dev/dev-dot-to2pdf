@@ -2,7 +2,9 @@
 set -e
 md_dir=./download_markdown
 pdf_dir=./pdf
-tmp_dir=/tmp/dev.to-print
+
+mkdir -p $md_dir
+mkdir -p $pdf_dir
 
 for url in $(cat articles.txt)
 do
