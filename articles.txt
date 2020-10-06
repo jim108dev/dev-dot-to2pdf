@@ -1,0 +1,12 @@
+https://dev.to/api/articles/gcanti/getting-started-with-fp-ts-setoid-39f3
+https://dev.to/api/articles/gcanti/getting-started-with-fp-ts-ord-5f1e
+https://dev.to/api/articles/gcanti/getting-started-with-fp-ts-semigroup-2mf7
+https://dev.to/api/articles/gcanti/getting-started-with-fp-ts-monoid-ja0
+https://dev.to/api/articles/gcanti/getting-started-with-fp-ts-category-4c9a
+https://dev.to/api/articles/gcanti/getting-started-with-fp-ts-functor-36ek
+https://dev.to/api/articles/gcanti/getting-started-with-fp-ts-applicative-1kb3
+https://dev.to/api/articles/gcanti/getting-started-with-fp-ts-monad-6k
+https://dev.to/api/articles/gcanti/getting-started-with-fp-ts-io-36p6
+https://dev.to/api/articles/gcanti/getting-started-with-fp-ts-either-vs-validation-5eja
+https://dev.to/api/articles/gcanti/interoperability-with-non-functional-code-using-fp-ts-432e
+https://dev.to/api/articles/gillchristian/enough-fp-ts-to-work-with-io-ts-20ip
